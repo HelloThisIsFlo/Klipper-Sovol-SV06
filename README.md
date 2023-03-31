@@ -1,5 +1,7 @@
 # 🚨 *One-Stop-Shop* Sovol SV06 Klipper Configuration
 
+> ⚠️ This is my version of bassamanator's repo. If you end up on this page, check his original repo instead: https://github.com/bassamanator/Sovol-SV06-firmware
+
 This repository contains the Klipper configuration and firmware for the Sovol SV06 3D printer with completely *stock hardware*.
 
 If you wanted to use the One-Stop-Shop Klipper Configuration for any other printer, please switch to the [any-printer](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer) branch.
