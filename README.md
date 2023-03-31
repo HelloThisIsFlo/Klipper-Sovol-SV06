@@ -1,6 +1,15 @@
+> ⚠️ This is my version of bassamanator's repo. If you end up on this page, check his original repo instead: https://github.com/bassamanator/Sovol-SV06-firmware
+
+# Klipper Config for SV06
+
+1. Setup Octoeverywhere
+
+
+
+---
+# Original README.md
 # 🚨 *One-Stop-Shop* Sovol SV06 Klipper Configuration
 
-> ⚠️ This is my version of bassamanator's repo. If you end up on this page, check his original repo instead: https://github.com/bassamanator/Sovol-SV06-firmware
 
 This repository contains the Klipper configuration and firmware for the Sovol SV06 3D printer with completely *stock hardware*.
 
