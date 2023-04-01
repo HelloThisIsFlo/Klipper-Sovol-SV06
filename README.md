@@ -2,7 +2,14 @@
 
 # Klipper Config for SV06
 
-1. Setup Octoeverywhere
+1. Create a `~/printer_data/moonraker.secrets` file  
+   _(this file is outside of the `config` folder so it's not under VCS)_
+   ```
+   [home_assistant]
+   token: ADD TOKEN
+   ```
+1. Setup Octoeverywhere  
+   _(config files ignored because they contain a secret key)_
 
 
 
